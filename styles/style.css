@@ -38,6 +38,8 @@ ol {
 }
 
 .page {
+  display: grid;
+  align-items: center;
   background-color: #1b1919;
 }
 
